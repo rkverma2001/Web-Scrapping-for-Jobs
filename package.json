@@ -1,0 +1,17 @@
+{
+  "name": "naukri-web-scrappping",
+  "version": "1.0.0",
+  "description": "This is the Web Scrapping of  Naukri Website ",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ritesh Kumar Verma",
+  "license": "ISC",
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.12",
+    "puppeteer": "^22.8.0",
+    "xlsx": "^0.18.5"
+  }
+}
